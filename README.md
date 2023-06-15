@@ -1,8 +1,6 @@
-# README
+# Prework - *IOS101-Pre-work*
 
-# Prework - *Name of App Here*
-
-Submitted by: **Your Name Here**
+Submitted by: **Md Ifaz**
 
 **Name of your app** is an app that... [TODO] 
 
