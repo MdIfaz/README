@@ -28,6 +28,19 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+App 1: Spotify
+- Personalized music recommendations
+- Collaborative playlists
+
+App 2:  Google Maps
+- Real-time updates on traffic
+- Voice-guided direction finding
+
+App 3: Slack
+- Several channels for communication 
+- Integration with other services and tools 
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
